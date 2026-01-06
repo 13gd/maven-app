@@ -3,7 +3,7 @@ package com.fortune.app;
  
 
 /**
-* welcome to m maven app 
+* this my maven application 
 */
 public class App {
 
