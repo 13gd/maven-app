@@ -3,7 +3,7 @@ package com.fortune.app;
  
 
 /**
-* this my maven application 
+* this my maven application for testing
 */
 public class App {
 
